@@ -1,53 +1,62 @@
-# Donation Button
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/FreeIPTVGitgub)
-Thanks for a small donation. :-)
-
 # Countries
-Free legally receivable IPTV channels as .m3u for Kodi. :-)
+Free IPTV with legally receivable TV channels for Kodi, VLC or other media players as .m3u for Kodi. :-)
 
-THE FOLLOWING RULES MUST BE OBSERVED:
+# IMPORTANT CHANGES!
 
-1. ONLY CREATE A FORK IF YOU WANT TO WORK WITH ME AND NOT ONLY TO ENRICH YOUR GITHUB ACCOUNT
-2. ALL M3Us ARE INTENDED FOR PRIVATE USE ONLY
-3. IT IS NOT ALLOWED TO SEND ME ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN MY REPO
-4. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED
-5. DISTRIBUTING OR POSTING MY LISTS IN FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
+Thanks to a few people, both here at Github and on other websites on the Internet, there is an important change here!
 
-THE ONLY PREVIOUS PERMISSION TO USE MY M3Us FOR OTHER PURPOSES HAS BEEN GIVEN TO THE LINUX MINT-TEAM ([HYPNOTIX APP](https://github.com/linuxmint/hypnotix)).
+We look for the streams, find new streams. Create the entries for the m3u's. We look for the right logos and integrate them into the m3u. That’s all a lot of work. Others who are too lazy to work just take our m3u's and copy our work and then present it as their best work. Something like that is a NoGo!
 
-The lists work fine with me in the IPTV Simple Client from Kodi or the VLC Player. To automatically create the individual lists
-to one list, I use the Add-on IPTV-Merge from Matt Huisman. ;-) You find this great Add-on here: [IPTV Merge Kodi Add-on](https://www.matthuisman.nz/2019/02/iptv-merge-kodi-add-on.html)
+NOW THAT'S THE END WITH THIS CLAWING IN FREE-IPTV/COUNTRIES!
 
-Without Kodi you can use the lists in the VLC Media Player. :-)
+Of course, the honest users, the genuine users of our m3u's, will have no disadvantages because of certain idiots!
 
-You can also use the `ZZ_PLAYLIST_ALL_TV.m3u`, there you have all TV stations in one list (.m3u).
+# ALSO IMPORTANT INFORMATION!
 
-The correct link to use the Playlist-ALL in the VLC Player or with the IPTV Simple Client in Kodi is:
+10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
-[https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u](https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u)
+https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
 
-Or use the following shortlink:
+11. April: Next one,  hate campaign against me here at Github:
 
-[https://is.gd/freeiptvall](https://is.gd/freeiptvall)
+https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817215089
 
-Important! Some streams (very few) only work in Kodi with the Youtube add-on ;-)
+You are welcome to thank these 2 above!
 
-Should a channel stop working, just leave a message. You can do this in the tab "[Issues](https://github.com/Free-IPTV/Countries/issues)". :-)
+# 17. April 2021: Furthermore, IPTVMATE.NET also uses our work WITHOUT SOURCE INFORMATION! 
 
-My `ZZ_PLAYLIST_ALL_TV.m3u` is also used in the pre-configuration of the new Hypnotix app. This app comes from the Linux Mint team. :-)
+While this idiot also now no longer has access to our private repo, he does use the m3u's we last posted here. He only took the trouble to replace tvg-logo= this time!  
 
-[https://itsfoss.com/hypnotix-iptv-app/](https://itsfoss.com/hypnotix-iptv-app/)
+This guy and also so some others are the reason why there is NO public repo anymore! This asshole copied the complete m3u's incl. file names to make a name for himself. The source WITH LINK to our repo is missing.
 
-Also important!
+You are welcome to thank him!
 
-I DO NOT GIVE SUPPORT FOR OLD AND OUTDATED FORKS!
+iptvmate.net
 
-If you add streams to your current fork and make a pull request, please note the following:
+# CURRENTLY THE ISSUES ARE OPEN FOR A SHORT TIME. IF THERE IS COMMING TOO MUCH GARBAGE AGAIN IN THE REQUESTS, ISSUES WILL BE CLOSED THEN AGAIN. 
 
-1. Pay attention to the alphabetical order (0-9. A-Z).
-2. Add the same Group-Name, it is the Country
-3. Do not add any GEO-Blocked streams, the streams in my M3Us can be seen by anyone, anywhere.
-4. Don't add illegal streams. Unfortunately there have been people who already did that and gave the name Kodi a bad reputation through their ignorance.
-5. Don't add new parameters. Only use `#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=""` and no others!
+# IF YOU WANT TO ACCESS OUR NEW PRIVATE REPO, PLEASE READ THE FOLLOWING CAREFULLY
 
-I'm always grateful for any help, it's a lot of work. If everything fits, your pull request will also be accepted. :-) 
+# NO INQUIRY PLEASE, IF YOUR ACCOUNT HAS RECENTLY CREATED! I'M SORRY, there is no other way at the moment.
+
+# THE FOLLOWING RULES MUST BE OBSERVED:
+
+1. CREATE A FORK FOR FUN IS NOT ALLOWED
+2. DO YOU WANT TO CREATE A FORK; PLEASE DISCUSS US BEFORE VIA ISSUE
+3. A FORK MAY ONLY BE CREATED, IF THEN THERE ALSO COMES A PULL REQUEST
+4. ALL M3Us ARE INTENDED FOR PRIVATE USE ONLY
+5. IT IS NOT ALLOWED TO SEND ME ILLGEGAL STREAMS VIA PULL REQUEST OR POST HERE IN MY REPO
+6. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED
+7. DISTRIBUTING OR POSTING OUR M3U´s AT GITHUB, FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
+8. WHO BREACHES THESE RULES, FLY OUT OF HERE IMMEDIATELY
+9. USERS WHO HAVE RECENTLY CREATED AN ACCOUNT, CANNOT GET ACCESS YET, I'M SORRY
+10. IF YOU DON´T WANT TO DONATE ANYTHING AS AN APPRECATION OT OUR WORK, MOVE ON!
+11. USERS WHO ARE NOT ABLE TO READ AND UNDERSTAND POINTS 1 to 11 CORRECTLY DO NOT GET ACCESS!
+
+# PLEASE make a new ISSUE and don´t write in existing ISSUE. 
+
+If you agree with these rules and adhere to them, you can contact us via "[Issues](https://github.com/Free-IPTV/Countries/issues)". 
+
+Thank you :-)
+
+**The streams are free, access to new repo is free. It is over with public repo and also with this constant stealing of our work! From now on our daily work in the new private repo is worth something again!**
